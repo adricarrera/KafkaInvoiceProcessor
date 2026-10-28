@@ -1,4 +1,4 @@
-# Marosa Invoice Processor
+# Kafka Invoice Processor
 
 A Spring Boot microservice that processes electronic invoices through Apache Kafka.
 
